@@ -1,16 +1,17 @@
-# keepnote
+# KeepNote
 
-A new Flutter project.
+A Flutter project for making simple notes.
 
-## Getting Started
+<h3>Overview</h3>
 
-This project is a starting point for a Flutter application.
+This is a simple note making app made in flutter.</br> The below are the features of the app.</br>
+Login with phone number using firebase.
+Upload, Delete data to the server.
 
-A few resources to get you started if this is your first Flutter project:
+<b>Note: </b>Connect the app to your firebase account and ensure that phone auth is turned ON.</br>
+             Replace the variables of <a href="lib/screens/detail/site_url.dart">site_url.dart</a> file to your server URLs.
+             
+<h4>Screenshots</h4>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
